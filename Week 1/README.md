@@ -1,7 +1,7 @@
 # Technical Challenge 1
 This is relevant for students that are in their first or second year of Bachelor's degree.
 
-## Balanced Parentheses
+## Balanced Parenthesis
 Given a string of parentheses, find the size of the longest contiguous substring of balanced parentheses. Parentheses are considered balanced when there is a valid closing parenthesis for an opening one.
 
 ### Example Cases
