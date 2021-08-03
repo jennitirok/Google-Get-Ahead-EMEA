@@ -15,3 +15,5 @@ A few things to clarify:
 _Note that there may be other valid answers._
 
 For the tree on the left, the length of the longest path is 2, for that on the right, it's 4.
+
+<img width="911" alt="Screen Shot 2021-08-03 at 21 54 22" src="https://user-images.githubusercontent.com/46791949/128037728-d033245d-7553-4c99-a7e9-54c79ab97136.png">
