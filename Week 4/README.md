@@ -17,10 +17,14 @@ You are given a vocabulary containing all valid words.
 ### Example 1
 Given the vocabulary of valid words as ["Sort", "Google", "Get", "Ahead"]
 
-For the licence plate ```RT 123 SO``` the shortest word would be SORT:
+<img width="238" alt="Screen Shot 2021-08-10 at 09 39 57" src="https://user-images.githubusercontent.com/46791949/128800410-9bca383c-8f84-4b2d-aeb7-83313271c76b.png">
+
+For the licence plate ```RT 123 SO``` the shortest word would be SORT.
 
 ### Example 2
 Given the vocabulary of valid words as ["What", "Is", "Google", "Car", "Waymo"]
+
+<img width="213" alt="Screen Shot 2021-08-10 at 09 40 13" src="https://user-images.githubusercontent.com/46791949/128800419-88960c5e-e201-4d76-9ff9-c86688c210e6.png">
 
 For ```RC 10014``` the shortest word would be CAR.
 
