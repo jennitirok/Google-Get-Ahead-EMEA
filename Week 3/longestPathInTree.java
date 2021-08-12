@@ -1,10 +1,5 @@
 import java.util.List;
 
-/** Tree class that represents the binary tree to be searched.
- * @author Jennifer Gabriela Tirok
- * @version 11th August 2021
- */
-
 public class Tree {
   // The integer value of the current node in the tree
   private int value;
