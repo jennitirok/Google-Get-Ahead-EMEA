@@ -1,8 +1,8 @@
 def find_shortest_word(plate, vocabulary):
     """Return the shortest word in the vocabulary with all the letters in a license plate."""
-    word_list = []
 
     # Filter the 'plate' string, grabing only letters in lowercase (a-z)
+    word_list = []
     plate = plate.lower()
     for i in plate:
         if (ord(i) in range(97, 123)):
@@ -29,5 +29,3 @@ def find_shortest_word(plate, vocabulary):
 
     # Return the shortest word matched with the letters in the 'plate' string
     return min(final_list, key=len)
-
-    
