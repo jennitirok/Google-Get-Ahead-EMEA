@@ -3,4 +3,4 @@ This repository is dedicated to document the Google Get Ahead EMEA Program 2021.
 <br>
 My solutions might not have the optimum time and space complexities, therefore, feel free to make contributions!
 
-*Disclaimer*: Solutions for Week 3 and Week 5 Technical Challenge are not mine (provided by Google)
+*Disclaimer*: Solutions for Week 5 Technical Challenge is not mine (provided by Google)
