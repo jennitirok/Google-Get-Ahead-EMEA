@@ -7,23 +7,27 @@ Minesweeper is a game where you see a grid of grey squares in the beginning. Hid
 If you click on a zero, the entire segment of zeroes and all the neighbours are revealed. If you click on a 9, you lose. If you click on any other number, only that field is revealed.
 
 ### Example
-```0 0 0 0 0
+```
+0 0 0 0 0
 0 0 0 0 0
 1 1 1 0 0
 1 X 1 0 0
 1 2 2 1 0
 0 1 X 1 0
-0 1 1 1 0```
+0 1 1 1 0
+```
 
 For example, if you click on the top right corner you get this ("-" means hidden):
 
-```0 0 0 0 0
+```
+0 0 0 0 0
 0 0 0 0 0
 1 1 1 0 0
 - - 1 0 0
 - - 2 1 0
 - - - 1 0
-- - - 1 0```
+- - - 1 0
+```
 
 Please write functions to:
 
