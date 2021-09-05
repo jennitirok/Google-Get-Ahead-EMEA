@@ -1,3 +1,5 @@
+*Disclaimer*: The solution ```rectangle_sums.py``` here is the solution provided by Google's Get Ahead Program, therefore **not mine**.
+
 # Technical Challenge 5
 This is relevant for students that are in their first or second year of Bachelor's degree.
 
