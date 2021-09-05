@@ -32,6 +32,6 @@ For example, if you click on the top right corner you get this ("-" means hidden
 Please write functions to:
 
 1. Given the size and number of mines, construct the playing field.
-2. Implement the "OnClick()" function.
-3. Implement the "Print(bool show_hidden)" function. The Print(false) function returns a string representation of the current playing field state. All cells that are still hidden should be represented by '-'. A mine should be represented by 'X'. All visible cells should be represented by their current number. When the parameter show_hidden is true, Print(true)should return a string representation of the playing field with all the cells visible.
+2. Implement the ```OnClick()``` function.
+3. Implement the ```Print(bool show_hidden)``` function. The ```Print(false)``` function returns a string representation of the current playing field state. All cells that are still hidden should be represented by '-'. A mine should be represented by 'X'. All visible cells should be represented by their current number. When the parameter show_hidden is true, Print(true)should return a string representation of the playing field with all the cells visible.
 
